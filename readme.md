@@ -117,5 +117,5 @@ Colocar prints
 
 ## 🎁 Expressões de gratidão
 
-* Pensar em um texto de agradecimento.
+* Pensar em um texto de agradecimento....
 <br>
