@@ -35,10 +35,16 @@
   header ul li a:hover {
     border-bottom: 5px solid #fd9e02;
   }
+
+  .logo2{
+    width: 40%;
+    height: auto;
+  }
   
   .toogle {
     display: none;
   }
+
   
   @media (max-width: 768px) {
     header ul {
