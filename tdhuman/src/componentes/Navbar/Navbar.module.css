@@ -1,0 +1,97 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,200;1,100&family=Open+Sans:wght@300&family=Roboto+Slab:wght@500&family=Roboto:ital,wght@1,100&display=swap');
+
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+  }
+  
+  header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 5px;
+    background: #001E2D;
+    color: #8ECAE6;
+    font-family: 'Roboto Slab', serif;  
+}
+  
+  header ul {
+    display: flex;
+  }
+  
+  header ul li {
+    list-style: none;
+    padding: 1rem;
+  }
+  
+  header ul li a {
+    text-decoration: none;
+    color: #8ECAE6;
+    font-size: 1.25rem;
+    transition: 0.3s ease-in-out;
+  }
+  
+  header ul li a:hover {
+    border-bottom: 5px solid #fd9e02;
+  }
+
+  .logo2{
+    width: 40%;
+    height: auto;
+  }
+  
+  .toogle {
+    display: none;
+  }
+
+  
+  @media (max-width: 768px) {
+    header ul {
+      position: absolute;
+      top: -100%;
+      left: 0;
+      width: 100%;
+      height: calc(50vh - 4rem);
+      padding: 50px 100px;
+      text-align: center;
+      overflow: auto;
+      background: #001E2D;
+      flex-direction: column;
+      opacity: 0;
+      transition: 0.3s ease-in-out;
+    }
+  
+    .logo {
+      color: #fff;
+    }
+  
+    header {
+      background-color: #001E2D;
+    }
+  
+    header.active ul {
+      opacity: 1;
+      top: 75px;
+    }
+  
+    header ul li a {
+      margin: 5px 0;
+      font-size: 1.25rem;
+      color: #8ECAE6;
+    }
+  
+    .toogle {
+      display: block;
+      position: relative;
+      width: 40px;
+      height: 40px;
+      background-image: url("https://img.icons8.com/material-outlined/48/ffffff/menu--v1.png");
+      cursor: pointer;
+    }
+  
+    header.active .toogle {
+      background-image: url("https://img.icons8.com/material-outlined/48/ffffff/multiply--v1.png");
+      background-repeat: no-repeat;
+    }
+  }
