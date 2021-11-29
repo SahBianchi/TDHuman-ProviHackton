@@ -111,7 +111,7 @@ Colocar prints
 
 💻 **Samantha Bianchi** - *Front-end* - [GitHub](https://github.com/SahBianchi)
 
-⚙️**João** - *Back-end* - [GitHub](https://github.com/w4sabi)
+⚙️**João Figueredo** - *Back-end* - [GitHub](https://github.com/w4sabi)
 
 <br>
 
