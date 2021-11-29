@@ -1,3 +1,6 @@
+body{
+    background-color: #FFB703;
+}
 .card{
     display: flex;
     justify-content: space-around;
