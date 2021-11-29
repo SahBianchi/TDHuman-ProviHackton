@@ -1,0 +1,33 @@
+.card{
+    display: flex;
+    justify-content: space-around;
+    height: 100%;
+    margin-top: 40px;
+    width: 90%;
+}
+
+.leftBlock{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    width: 20%;
+    height: auto;
+}
+
+.rightBlock{
+    width: 55%;
+    height: auto;
+}
+
+.calendar{
+    height: auto;
+}
+
+.tasks{
+    height: auto;
+}
+
+.calendarNotes{
+    height: auto;
+    width: fit-content;
+}
