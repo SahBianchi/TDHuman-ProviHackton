@@ -7,7 +7,7 @@ export default function Login(){
         <>
         <header className={styles.header}>
         <div className={styles.logo}>
-            <img className={styles.logo2} src="https://i.imgur.com/0L9LVKV.png" />
+            <img className={styles.logo2} src="https://i.imgur.com/ZDqL8bq.png" />
         </div>
     <ul className={styles.ul}>
       <li className={styles.li}><a className={styles.a} href="">Homepage</a></li>
