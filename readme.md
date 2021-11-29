@@ -36,59 +36,6 @@ Nós usamos [GitHub](https://github.com/) para controle de versão. Para as vers
 <br>
 
 
-## ✏️ Produto | Processo Criativo
-
-### 🔎 Pesquisa Quantitativa e Qualitativa
-
-Colocar prints 
-<br>
-
-### 🧑‍🎤🙎‍♀️ Roteiro Qualitativo
-
-<p align="center">
-    Colocar prints
-</p><br>
-
-
-###  💡 Ideação
-
-<p align="center">
- Colocar prints
-</p>
-<br>
-
-
-### 🏷️ Branding
-
-<p align="center">
-    Colocar prints
-</p><br>
-
-<p align="center">
-    Colocar prints
-</p><br>
-
-<p align="center">
-    Colocar prints
-</p><br>
-
-<p align="center">
-    Colocar prints
-</p><br>
-
-
-### 📈 Business
-<p align="center">
-   Colocar prints
-</p><br>
-
-
-### 💻 Sitemap
-<p align="center">
-   Colocar prints
-</p><br>
-
-
 ### 📺 Vídeos de Apresentação
 
 * <a href="https://www.youtube.com/watch?v=k3kgHx8fbfw">Apresentação</a>
