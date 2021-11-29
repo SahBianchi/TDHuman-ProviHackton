@@ -91,9 +91,9 @@ Colocar prints
 
 ### 📺 Vídeos de Apresentação
 
-* <a href="#">Apresentação</a>
+* <a href="https://www.youtube.com/watch?v=k3kgHx8fbfw">Apresentação</a>
 
-* <a href="#">Aplicação</a>
+* <a href="https://www.loom.com/share/89a30156cfb640adafd15f32ffdbfdb6">Aplicação</a>
 <br>
 
 
