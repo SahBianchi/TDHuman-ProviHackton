@@ -8,9 +8,10 @@
   
   header {
     display: flex;
-    justify-content: space-between;
+    width: 100%;
+    justify-content: space-around;
     align-items: center;
-    padding: 5px;
+    padding: 10px;
     background: #001E2D;
     color: #8ECAE6;
     font-family: 'Roboto Slab', serif;  
@@ -18,6 +19,9 @@
   
   header ul {
     display: flex;
+    width: 100%;
+    justify-content: flex-end;
+    margin-right: 80px;
   }
   
   header ul li {
@@ -37,12 +41,16 @@
   }
 
   .logo2{
-    width: 40%;
+    width: 60%;
     height: auto;
   }
   
   .toogle {
     display: none;
+  }
+
+  .img{
+    width: 30px;
   }
 
   

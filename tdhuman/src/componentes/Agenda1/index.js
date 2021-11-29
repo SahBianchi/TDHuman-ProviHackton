@@ -1,7 +1,8 @@
 import React from 'react';
-import styles from '../agenda/Agenda.module.css';
+import styles from './Agenda.module.css';
+// import Botao from '../Botao/botao';
 
-export default function agenda() {
+export default function index() {
     return (
         <>
             <div className={styles.card}>
@@ -17,6 +18,8 @@ export default function agenda() {
                     <img className={styles.calendarNotes} src="https://i.imgur.com/sXrvu11.png"/>
                     </div>
             </div>
+
+        {/* <Botao /> */}
             
         </>
     )

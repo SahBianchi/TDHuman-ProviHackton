@@ -1,0 +1,13 @@
+.helpButton{
+    font-size: 20px;
+    color: #FFFFFF;
+    background-color: #FB2D00;
+    width: 120px;
+    height: 120px;
+    border-radius: 50%;
+    border: none;
+    box-shadow: 0 0 0.5em #710000;
+    font-family: Roboto;
+    margin-left: 80%;
+    margin-bottom: 15px;
+}

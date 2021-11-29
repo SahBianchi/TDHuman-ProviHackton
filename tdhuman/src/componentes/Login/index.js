@@ -13,7 +13,7 @@ export default function Login(){
                 <input className={styles.input} type="password" id="senha" name="senha" placeholder="Senha" />
                 <br />
                 <button className={styles.botao} type="submit">Enviar</button>
-                {/* <input className={styles.botao} type="submit" value="Enviar" /> */}
+                
             </form>      
 
             <a className={styles.cadastro} href="#">Cadastre-se aqui</a>

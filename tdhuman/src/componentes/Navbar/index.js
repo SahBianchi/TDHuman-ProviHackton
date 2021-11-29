@@ -13,7 +13,11 @@ export default function Login(){
       <li className={styles.li}><a className={styles.a} href="">Homepage</a></li>
       <li className={styles.li}><a className={styles.a} href="">Agenda</a></li>
       <li className={styles.li}><a className={styles.a} href="">Painel da saúde</a></li>
-      <li className={styles.li}><a className={styles.a} href=""></a></li>
+      <li className={styles.li}>
+        <a className={styles.a} href="">
+            <img className={styles.img} src="https://i.imgur.com/20pHUMi.png" />
+        </a>
+        </li>
     </ul>
     <div Name={styles.toogle}onclick="toogle()"></div>
   </header>
