@@ -1,8 +1,6 @@
-# PROVI HACK PARA TODOS 2021
+# PROVI HACK PARA TODOS 2021 - Equipe TDAHuman - Projeto TDHuman
 
-# Equipe TDAHuman - Projeto TDHuman
-
-Falar algo sobre o projeto.
+Nosso projeto consiste em uma plataforma para o auxilio a Neurodivergentes, em específico, pessoas com TDAH (Transtorno do Déficit de Atenção com Hiperatividade) visando a entrada e permanência desse grupo no mercado de trabalho. 
 <br>
 
 
@@ -99,7 +97,7 @@ Colocar prints
 <br>
 
 
-## ✒️ As Criadoras
+## ✒️ Criadores
 
 ⚙️**Pri Damasceno** - *FullStack* - [GitHub](https://github.com/PriscilaDamaceno)
 
