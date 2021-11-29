@@ -1,0 +1,60 @@
+.container{
+    display: flex;
+    justify-content: center;
+
+}
+
+.borda{
+    width: 779px;
+    height: 420px;
+    border-radius: 20px;
+    border: 1px solid #023047;
+    margin: 5%;
+}
+
+.titulo{
+    font-family: Roboto Slab;
+    font-weight: bold;
+    font-size: 36px;
+    line-height: 32px;
+    color: #219EBC;
+    margin: 5% 0;
+}
+
+.input{
+    width: 590px;
+    height: 55px;
+    font-size: 22px;
+    border-radius: 10px;
+    border: solid #8D98B4;
+    text-align: center;
+    margin-bottom: 18px;
+    /* font-family: Roboto;
+    font-weight: 500;
+    line-height: 24px;*/
+}
+
+.botao{
+    width: 261px;
+    height: 52px;
+    background: #219EBC;
+    border-radius: 24px;
+    font-family: Roboto Mono;
+    font-weight: bold;
+    font-size: 18px;
+    line-height: 24px;
+    text-transform: uppercase;
+    color: white;
+    margin: 20px 0;
+}
+
+.cadastro{
+    font-family: Poppins;
+    font-weight: bold;
+    font-size: 18px;
+    line-height: 24px;
+    text-decoration-line: underline;
+    text-transform: uppercase;
+    color: #8ECAE6;
+    margin: 80px 0;
+}

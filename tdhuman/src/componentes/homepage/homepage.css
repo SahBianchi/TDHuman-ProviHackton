@@ -1,0 +1,45 @@
+
+.skewed {
+    position: relative;
+    top: 40px;
+    width: 100%;
+    height: 100%;
+    background: #ffb703;
+    z-index: 05;
+    transform: skewY(-9deg);
+    transform-origin: bottom;
+  }
+
+  .linha {
+    display: flex;
+    width: 900px;
+    justify-content: space-around;
+    margin-bottom: 2rem;
+  }
+  
+  .card {
+    background: #023047;
+    width: 136px;
+    height: 189px;
+    border-radius: 0.7rem;
+    color: #fff;
+    display: flex;
+    flex-direction: column;
+    padding: 0.5rem;
+    justify-content: right;
+    align-items: center;
+    box-shadow: 0 10px 8px #c4c4c4;
+  }
+  
+  .card img {
+    width: 85%;
+    height: 50%;
+    object-fit: contain;
+  }
+  
+  .card p {
+    text-transform: uppercase;
+    text-align: center;
+  }
+  
+ 
