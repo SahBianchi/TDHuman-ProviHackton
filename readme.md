@@ -63,4 +63,4 @@ Nós usamos [GitHub](https://github.com/) para controle de versão. Para as vers
 
 ## 🎁 Expressões de gratidão
 
-* Gostariámos de agradecer a toda equipe da **Provi** pela organização do Hackaton. E um obrigade a todes mentores que nos apoiaram em nossa jornada de aprendizagem ao longo do desenvolvimento desse projeto e em especial à Thaíssa Araujo, nossa mentora fixa.
+* Gostariamos de agradecer a toda equipe da **Provi** pela organização do Hackaton. E um obrigade a todes mentores que nos apoiaram em nossa jornada de aprendizagem ao longo do desenvolvimento desse projeto e em especial à Thaíssa Araujo, nossa mentora fixa.
