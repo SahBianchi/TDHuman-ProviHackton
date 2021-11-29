@@ -1,6 +1,6 @@
 # PROVI HACK PARA TODOS 2021
 
-# Equipe "pensar no nome da equipe" - Projeto TDHuman
+# Equipe TDAHuman - Projeto TDHuman
 
 Falar algo sobre o projeto.
 <br>
