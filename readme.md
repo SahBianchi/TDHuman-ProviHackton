@@ -12,7 +12,11 @@ Essas instruções permitirão que você consiga ter esse projeto em operação 
 
 ### 📋 Pré-requisitos para instalação 🔧
 
-* descrever como iniciar o projeto localmente
+==> Para conseguir visualizar e manipular nossa aplicação:
+* Instale NodeJS em seu computador.
+* Baixe os aquivos do repositório aqui no GitHub.
+* Acesse a pasta principal do projeto pelo terminal *tdhuman* e instale utilizando o comando: npm install.
+* Em seguida utilize o comando npm start para inicializar a aplicação.
 <br>
 
 
@@ -20,9 +24,12 @@ Essas instruções permitirão que você consiga ter esse projeto em operação 
 
 ### 🛠️ Construído com
 
-descrever quais softwares usamos na construção do projeto
-<br>
-
+* [Figma](https://www.figma.com/) - Design UX-UI.
+* [Trello](https://trello.com/b/WsYtHrI4/time-a-projeto-m4u) - Gestão de Projetos.
+* [RactJS](https://nodejs.org/pt-br/docs/) - Framework utilizado para Front-end.
+* [JavaScript](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript) - Linguagem utilizada no Front e Back-end.
+* [CSS](https://developer.mozilla.org/pt-BR/docs/Web/CSS) - Utilizado para estilização das páginas no Front-end.
+<br><br>
 
 ## 📌 Versão
 
@@ -100,22 +107,21 @@ Colocar prints
 
 ## ✒️ As Criadoras
 
-⚙️**Pri Damasceno** - *Back-end* - [GitHub](#)
+⚙️**Pri Damasceno** - *FullStack* - [GitHub](https://github.com/PriscilaDamaceno)
 
-📀 **Marcella Justo** - *Data* - [GitHub](https://github.com/justo-marcella)
+📀 **Marcella Justo** - *FullStack* - [GitHub](https://github.com/justo-marcella)
 
-💡**Vanessa Rezende** - *Design* - [Portfolio](#)
+💡**Vanessa Rezende** - *Design - UX/UI* - [Portfolio](#)
 
 🚀 **Renata Cotis** - *Produto* - [GitHub](#)
 
 💻 **Samantha Bianchi** - *Front-end* - [GitHub](https://github.com/SahBianchi)
 
-⚙️**João** - *Back-end* - [GitHub](#)
+⚙️**João** - *Back-end* - [GitHub](https://github.com/w4sabi)
 
 <br>
 
 
 ## 🎁 Expressões de gratidão
 
-* Pensar em um texto de agradecimento....
-<br>
+* Gostariámos de agradecer a toda equipe da **Provi** pela organização do Hackaton. E um obrigade a todes mentores que nos apoiaram em nossa jornada de aprendizagem ao longo do desenvolvimento desse projeto e em especial à Thaíssa Araujo, nossa mentora fixa.
