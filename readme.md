@@ -26,7 +26,8 @@ Essas instruções permitirão que você consiga ter esse projeto em operação 
 
 * [Figma](https://www.figma.com/) - Design UX-UI.
 * [Trello](https://trello.com/b/WsYtHrI4/time-a-projeto-m4u) - Gestão de Projetos.
-* [RactJS](https://nodejs.org/pt-br/docs/) - Framework utilizado para Front-end.
+* [NPM](https://www.npmjs.com/) - Gerenciador de Pacotes para o NodeJs
+* [ReactJS](https://pt-br.reactjs.org/) - Framework utilizado para Front-end.
 * [JavaScript](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript) - Linguagem utilizada no Front e Back-end.
 * [CSS](https://developer.mozilla.org/pt-BR/docs/Web/CSS) - Utilizado para estilização das páginas no Front-end.
 <br><br>
@@ -42,14 +43,7 @@ Nós usamos [GitHub](https://github.com/) para controle de versão. Para as vers
 ### 🔎 Pesquisa Quantitativa e Qualitativa
 
 Colocar prints 
-
-
-### 🧑‍💻🙎‍♀️ Roteiro Quantitativo
-
-<p align="center">
-   Colocar prints
-</p><br>
-
+<br>
 
 ### 🧑‍🎤🙎‍♀️ Roteiro Qualitativo
 
